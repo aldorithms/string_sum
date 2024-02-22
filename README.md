@@ -13,4 +13,5 @@ maturin develop
 Then test using:
 ```sh
 python test.py
+mojo test.mojo
 ```
